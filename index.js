@@ -14,7 +14,8 @@ function hasTargetSum(array, target) {
 
 /*
   Write the Big O time complexity of your function here
-  O(n)
+  Time complexity: O(n)
+  Space complexity: O(n)
 */
 
 /*
